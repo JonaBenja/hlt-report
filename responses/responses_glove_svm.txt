@@ -1,0 +1,36 @@
+0,I see
+1,That's true
+2,People are fine.
+3,Thanks for telling me about them.
+4,Meh
+5,That's true
+6,OK
+7,OK
+8,I love watching nature documentaries
+9,I love animals!
+10,People are fine.
+11,OK
+12,Good to know.
+13,I'm having neutral feelings about that place.
+14,OK
+15,So happy I know this now.
+16,Very informative
+17,OK
+18,Good to know.
+19,Good to know.
+20,Please tell me something I can answer B)
+21,OK
+22,Very informative
+23,OK
+24,Please tell me something I can answer B)
+25,Wow, so informative
+26,Yeah, okay, makes sense.
+27,OK
+28,People are fine.
+29,People are fine.
+30,Wow, so informative
+31,Thanks for telling me about them.
+32,Please tell me something I can answer B)
+33,Very informative
+34,Good to know.
+35,I love them!
